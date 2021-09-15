@@ -1,3 +1,3 @@
 # iosCalcApp!
 
-[](https://i.imgur.com/RFZWFPY.gif)
+![](https://i.imgur.com/RFZWFPY.gif)
